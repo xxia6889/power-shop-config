@@ -1,1 +1,3 @@
 # power-shop-config
+
+Test
